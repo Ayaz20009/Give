@@ -1,10 +1,4 @@
-# Pre-work - "Give"
-
 "Give" is a tip calculator application for iOS.
-
-Submitted by: Ayaz Shah
-
-Time spent: 10 hours spent in total
 
 ## User Stories
 
@@ -32,11 +26,6 @@ http://imgur.com/ZVrXo6h
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-  It was a very simple application and I would have done alot on it but I was very busy with the finals. I finished my last project 1 day ago.
 
 ## License
 
